@@ -1,0 +1,21 @@
+.pancake-stack {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: 1fr 5fr 1fr;
+  background-color: #7b241e;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.butter {
+  background-color: #f01613;
+}
+
+.syrup {
+  background-color: #c91b17;
+}
+
+.the-pancake {
+  background-color: #a21f1a;
+}
